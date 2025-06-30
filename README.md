@@ -1,12 +1,24 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+El proyecto trata acerca de un ecommerce de eventos en la ciudad de Lima, como eventos deportivos, conciertos, obras teatrales, etc.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Páginas 
 
-## Expanding the ESLint configuration
+El proyecto consta de las siguientes páginas:
+💻 Home (donde se muestran los productos, llámese eventos)
+💻 Register (Donde un usuario nuevo se registra)
+💻 Login (Donde un usuario ya registrado inicia sesión)
+💻 Cart (Carrito de compras)
+💻 Checkout (donde se realiza el pago)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Integrantes GRUPO 2
+
+N°        |Nombre y Apellido      |
+|----------------|-------------------------------|
+|01| Raúl Sánchez Rodriguez      |
+|02| Freddy Nolasco   |
+|03| Alex Cusimayta    |
+|04| Diego  Ramirez    |
+|05| Christian Barrientos    |
+|06| Gonzalo Loyola  |
