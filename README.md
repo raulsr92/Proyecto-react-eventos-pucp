@@ -6,11 +6,12 @@ El proyecto trata acerca de un ecommerce de eventos en la ciudad de Lima, como e
 ## Páginas 
 
 El proyecto consta de las siguientes páginas:
-💻 Home (donde se muestran los productos, llámese eventos)
-💻 Register (Donde un usuario nuevo se registra)
-💻 Login (Donde un usuario ya registrado inicia sesión)
-💻 Cart (Carrito de compras)
-💻 Checkout (donde se realiza el pago)
+
+1. 💻 Home (donde se muestran los productos, llámese eventos)
+2. 💻 Register (Donde un usuario nuevo se registra)
+3. 💻 Login (Donde un usuario ya registrado inicia sesión)
+4. 💻 Cart (Carrito de compras)
+5. 💻 Checkout (donde se realiza el pago)
 
 ## Integrantes GRUPO 2
 
