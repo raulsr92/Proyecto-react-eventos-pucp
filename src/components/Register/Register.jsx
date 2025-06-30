@@ -6,7 +6,7 @@ function Register() {
         <>
             <section>
                 <p>
-                    Register del proyecto
+                    Register 🧾 del proyecto
                 </p>
             </section>
         </>

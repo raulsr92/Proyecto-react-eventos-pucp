@@ -6,7 +6,7 @@ function Cart() {
         <>
             <section>
                 <p>
-                    Cart del proyecto
+                    Cart 🛒 del proyecto
                 </p>
             </section>
         </>

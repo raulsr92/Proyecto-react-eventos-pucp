@@ -1,0 +1,10 @@
+.cards-container{
+  display: flex;
+  column-gap: 30px;
+}
+
+.galeria-container{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}

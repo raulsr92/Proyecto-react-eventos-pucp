@@ -7,7 +7,7 @@ function Checkout() {
         <>
             <section>
                 <p>
-                    Checkout del proyecto
+                    Checkout 💰  del proyecto
                 </p>
             </section>
         </>

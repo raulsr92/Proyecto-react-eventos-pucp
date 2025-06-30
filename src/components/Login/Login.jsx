@@ -6,7 +6,7 @@ function Login() {
         <>
             <section>
                 <p>
-                    Login del proyecto
+                    Login 🔡 del proyecto
                 </p>
             </section>
         </>
